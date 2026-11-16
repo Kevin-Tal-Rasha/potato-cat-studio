@@ -5,7 +5,10 @@
 GitHub Pages 从 `main` 分支根目录发布。
 
 - 工作室首页：https://kevin-tal-rasha.github.io/potato-cat-studio/
+- RoveBox 产品介绍：https://kevin-tal-rasha.github.io/potato-cat-studio/rovebox/
 - 轻卷支持：https://kevin-tal-rasha.github.io/potato-cat-studio/scrolloom/
 - 轻卷隐私政策：https://kevin-tal-rasha.github.io/potato-cat-studio/scrolloom/privacy.html
 
 后续软件分别使用独立目录，并在根目录首页添加入口；隐私政策应按各软件实际功能分别维护。公共样式位于 `style.css`，联系邮箱为 sweet-potato-cat@hotmail.com。此仓库只存放公开网站资源。
+
+RoveBox 产品页位于 `rovebox/`，使用本地真实内测截图与独立响应式样式，无构建依赖。更新截图时请保留不含用户私人数据的公开示例。
